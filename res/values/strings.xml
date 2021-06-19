@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tools Shop</string>
+    <string name="logo_of_tools_shop">logo of tools shop</string>
+    <string name="drill_logo">drill logo</string>
+    <string-array name="tools">
+        <item>Drill</item>
+        <item>Impact</item>
+        <item>Roller</item>
+    </string-array>
+
+    <string name="drill_dewalt_title">DeWalt</string>
+    <string name="drill_makitta_title">Makita</string>
+    <string name="drill_bosch_title">Bosch</string>
+
+    <string name="drill_dewalt_info">Compact, lightweight combi-hammer drill designed to give the professional trade a high level of efficiency and faster, safer applications. Features rugged 2-speed gearbox and powerful XR Li-Ion battery technology. Enables extended work in difficult cramped spaces and consistent screw-driving into a variety of materials. All-metal transmission improves and increases run-time as well as increasing the working life of the tool. Ultra-bright, white work light with delay feature for improved visibility and flashlight functionality in low-light working conditions.Compact, lightweight combi-hammer drill designed to give the professional trade a high level of efficiency and faster, safer applications. Features rugged 2-speed gearbox and powerful XR Li-Ion battery technology. Enables extended work in difficult cramped spaces and consistent screw-driving into a variety of materials. All-metal transmission improves and increases run-time as well as increasing the working life of the tool. Ultra-bright, white work light with delay feature for improved visibility and flashlight functionality in low-light working conditions.Compact, lightweight combi-hammer drill designed to give the professional trade a high level of efficiency and faster, safer applications. Features rugged 2-speed gearbox and powerful XR Li-Ion battery technology. Enables extended work in difficult cramped spaces and consistent screw-driving into a variety of materials. All-metal transmission improves and increases run-time as well as increasing the working life of the tool. Ultra-bright, white work light with delay feature for improved visibility and flashlight functionality in low-light working conditions.Compact, lightweight combi-hammer drill designed to give the professional trade a high level of efficiency and faster, safer applications. Features rugged 2-speed gearbox and powerful XR Li-Ion battery technology. Enables extended work in difficult cramped spaces and consistent screw-driving into a variety of materials. All-metal transmission improves and increases run-time as well as increasing the working life of the tool. Ultra-bright, white work light with delay feature for improved visibility and flashlight functionality in low-light working conditions.Compact, lightweight combi-hammer drill designed to give the professional trade a high level of efficiency and faster, safer applications. Features rugged 2-speed gearbox and powerful XR Li-Ion battery technology. Enables extended work in difficult cramped spaces and consistent screw-driving into a variety of materials. All-metal transmission improves and increases run-time as well as increasing the working life of the tool. Ultra-bright, white work light with delay feature for improved visibility and flashlight functionality in low-light working conditions.</string>
+    <string name="drill_bosch_info">This 12V Max 3/8 In. drill/driver is a professional-grade tool that provides real power at an unreal size. The Bosch PS31 features a professional motor that delivers 265 In.-Lbs. of torque, along with a max speed of 1,300 rpm. With a head length of 7.0 In. and a weight of 1.8 Lbs. (tool only, not including battery), this compact powerful drill/driver is an ideal tool for overhead work or tight spaces. The 3/8 In. </string>
+    <string name="drill_makita_info">The DTD153 cordless impact driver features high operation efficiency with a 170 Nm max torque and 4 pole brushless motor. Its keyless single sleeve ¼” hex chuck accepts M5 – M16 standard bolts and M4 – M8 machine screws, making it ideal for repetitive screwdriving.</string>
+    <string name="dewalt_logo">dewalt logo</string>
+    <string name="bosch_logo">bosch logo</string>
+    <string name="makita_logo">makita logo</string>
+    <string name="title">title</string>
+</resources>
